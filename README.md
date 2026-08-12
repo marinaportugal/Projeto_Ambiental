@@ -1,4 +1,4 @@
-##QUIZ VERDE:
+## Quiz Verde:
 
 ## Esse é o tipo do meu projeto:
 
