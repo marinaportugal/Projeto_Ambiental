@@ -1,59 +1,32 @@
-# Projeto Ambiental
-escolhido: Quiz Verde (4)
-## Aqui está a ideia do meu projeto:
->## Ideias para o projeto
+##QUIZ VERDE:
 
-### 1. EcoGuard
+## Esse é o tipo do meu projeto:
 
-Um aplicativo que calcula uma estimativa da pegada de carbono do usuário com base em seus hábitos do dia a dia, como transporte, consumo de energia, alimentação e uso de água.
+> Quiz educativo sobre meio ambiente.
 
-O aplicativo também poderia apresentar sugestões para ajudar o usuário a diminuir seu impacto ambiental.
+O Quiz Verde é um projeto que utiliza perguntas e respostas
+para testar e aumentar o conhecimento dos usuários sobre
+meio ambiente e sustentabilidade.
 
-**Objetivo:** conscientizar as pessoas sobre como suas escolhas diárias podem contribuir para as mudanças climáticas.
+## As bibliotecas que vou usar:
 
----
+- Flask — framework web utilizado para desenvolver a aplicação em Python.
 
-### 2. ReciclaIA
+## Referências úteis:
 
-Um aplicativo que utiliza inteligência artificial para identificar um objeto a partir de uma foto ou imagem e indicar em qual categoria de reciclagem ele deve ser descartado.
+- Flask Quiz App — projeto de quiz desenvolvido com Python, Flask,
+  HTML e CSS:
+  https://github.com/thepasterover/flask-quiz-app
 
-Por exemplo, o usuário pode tirar uma foto de uma garrafa de plástico e o aplicativo pode informar:
+- Quiz Flask App — projeto de quiz open source utilizando Flask:
+  https://github.com/simboli/quiz-flask-app
 
-> Garrafa PET  
-> Categoria: Plástico  
-> Descarte: Reciclável
+## Os artigos de orientação que me ajudarão durante o desenvolvimento:
 
-**Objetivo:** facilitar a separação correta dos resíduos e incentivar a reciclagem.
+- Flask Quickstart — tutorial oficial para aprender a criar
+  aplicações utilizando Flask:
+  https://flask.palletsprojects.com/en/stable/quickstart/
 
----
-
-### 3. Desafio Verde
-
-Um aplicativo em formato de jogo que incentiva os usuários a adotarem hábitos mais sustentáveis por meio de desafios diários.
-
-Exemplo:
-
-> **Desafio de hoje:**  
-> Vá para algum lugar próximo sem utilizar carro.
-
-Ao completar o desafio:
-
-> **+50 pontos!**
-
-Conforme acumula pontos, o usuário pode subir de nível:
-
-Iniciante → Sustentável → Guardião do Planeta
-
-**Objetivo:** tornar a sustentabilidade mais divertida e incentivar pequenas mudanças de comportamento no dia a dia.
-
-**Diferencial:** utilização de gamificação para aumentar o interesse e o engajamento dos usuários.
-
----
-
-### 4. Quiz Verde
-
-Um quiz que vai testar seu conhecimento sobre o meio ambiente e vai te dar pontos.
-
-**Diferencial:** utilização de quiz para aumentar o entendimento e o engajamento dos usuários com relação ao meio ambiente.
-
-
+- Flask Templates — guia oficial sobre criação e utilização
+  de templates HTML:
+  https://flask.palletsprojects.com/en/stable/tutorial/templates/
