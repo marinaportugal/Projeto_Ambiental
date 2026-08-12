@@ -54,6 +54,6 @@ Iniciante → Sustentável → Guardião do Planeta
 
 Um quiz que vai testar seu conhecimento sobre o meio ambiente e vai te dar pontos.
 
-**Diferencial:** utilização de quiz para aumentar o intendimento e o engajamento dos usuários com relação ao ambiente.
+**Diferencial:** utilização de quiz para aumentar o entendimento e o engajamento dos usuários com relação ao meio ambiente.
 
 
